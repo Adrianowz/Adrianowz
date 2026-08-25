@@ -1,5 +1,5 @@
 # Adriano Martins
-## Estudante de Ciência da Computação | Desenvolvedor em Formação
+### Estudante de Ciência da Computação | Desenvolvedor em Formação
 
 Sou estudante de Ciência da Computação na Universidade Positivo, atualmente no 2º período, com 18 anos e em constante desenvolvimento na área de tecnologia.
 
@@ -39,7 +39,7 @@ Tenho interesse especial nas seguintes áreas:
 - Resolução de problemas
 - Competências a Desenvolver
 
-Atualmente, estou buscando aprimorar meus conhecimentos e desenvolver novas competências nas seguintes áreas:
+### Atualmente, estou buscando aprimorar meus conhecimentos e desenvolver novas competências nas seguintes áreas:
 
 - Python
 - HTML, CSS e JavaScript
@@ -78,6 +78,6 @@ Busco transformar conhecimento em prática, desafios em aprendizado e aprendizad
 Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvimento de software. Novos projetos e trabalhos acadêmicos serão adicionados a este perfil conforme minha evolução na área de tecnologia.
 
 
-Adriano Martins
-Estudante de Ciência da Computação | Universidade Positivo
-Desenvolvedor em Formação
+### Adriano Martins
+### Estudante de Ciência da Computação | Universidade Positivo
+### Desenvolvedor em Formação
