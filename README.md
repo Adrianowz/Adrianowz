@@ -57,13 +57,13 @@ Meu objetivo é evoluir continuamente, transformando o conhecimento teórico adq
 
 Universidade Positivo
 
-Curso: Ciência da Computação
-Período: 2º período
+- Curso: Ciência da Computação
+- Período: 2º período
 
 ## Idiomas
-Português: Nativo
-Inglês: Básico
-Sobre Minha Jornada
+- Português: Nativo
+- Inglês: Básico
+## Sobre Minha Jornada
 
 Estou no início da minha jornada profissional na área de tecnologia e acredito que cada projeto representa uma oportunidade de aprendizado e evolução.
 
