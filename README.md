@@ -7,7 +7,7 @@ Minha trajetória profissional teve início no setor industrial, em uma fábrica
 
 Atualmente, estou direcionando minha carreira para a tecnologia, buscando transformar os conhecimentos adquiridos na graduação em experiências e projetos práticos.
 
-# Objetivo Profissional
+## Objetivo Profissional
 
 Meu objetivo é construir uma carreira como Engenheiro de Software, desenvolvendo soluções eficientes, inovadoras e de qualidade.
 
