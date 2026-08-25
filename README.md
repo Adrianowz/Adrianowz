@@ -15,41 +15,41 @@ Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar meu
 
 Tenho interesse especial nas seguintes áreas:
 
--Segurança da Informação
--Banco de Dados
--Desenvolvimento Web
--Desenvolvimento com Python
--UI/UX
--Desenvolvimento de Software
--Competências Atuais
--Técnicas
--Lógica de programação
--Conhecimentos básicos de Python
--Noções de desenvolvimento de software
--Informática
--Pacote Office
--Noções de UI/UX
--Comportamentais
--Vontade de aprender
--Responsabilidade
--Organização
--Comprometimento
--Trabalho em equipe
--Proatividade
--Resolução de problemas
--Competências a Desenvolver
+- Segurança da Informação
+- Banco de Dados
+- Desenvolvimento Web
+- Desenvolvimento com Python
+- UI/UX
+- Desenvolvimento de Software
+- Competências Atuais
+- Técnicas
+- Lógica de programação
+- Conhecimentos básicos de Python
+- Noções de desenvolvimento de software
+- Informática
+- Pacote Office
+- Noções de UI/UX
+- Comportamentais
+- Vontade de aprender
+- Responsabilidade
+- Organização
+- Comprometimento
+- Trabalho em equipe
+- Proatividade
+- Resolução de problemas
+- Competências a Desenvolver
 
 Atualmente, estou buscando aprimorar meus conhecimentos e desenvolver novas competências nas seguintes áreas:
 
--Python
--HTML, CSS e JavaScript
--SQL e Banco de Dados
--Git e GitHub
--Desenvolvimento de APIs
--Testes de Software
--Metodologias Ágeis (Scrum e Kanban)
--UI/UX
--Segurança da Informação
+- Python
+- HTML, CSS e JavaScript
+- SQL e Banco de Dados
+- Git e GitHub
+- Desenvolvimento de APIs
+- Testes de Software
+- Metodologias Ágeis (Scrum e Kanban)
+- UI/UX
+- Segurança da Informação
 
 Meu objetivo é evoluir continuamente, transformando o conhecimento teórico adquirido na faculdade em projetos práticos e experiências reais.
 
