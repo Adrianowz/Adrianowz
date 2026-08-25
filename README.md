@@ -69,7 +69,14 @@ Estou no início da minha jornada profissional na área de tecnologia e acredito
 
 Busco transformar conhecimento em prática, desafios em aprendizado e aprendizado em resultados.
 
-Contato
+## Contato
+
+- LinkedIn: [Adriano Martins]((https://www.linkedin.com/in/adriano-martins-santos-jr/))
+
+## Projetos
+
+Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvimento de software. Novos projetos e trabalhos acadêmicos serão adicionados a este perfil conforme minha evolução na área de tecnologia.
+
 
 Adriano Martins
 Estudante de Ciência da Computação | Universidade Positivo
