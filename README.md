@@ -1,5 +1,5 @@
-#Adriano Martins
-##Estudante de Ciência da Computação | Desenvolvedor em Formação
+# Adriano Martins
+## Estudante de Ciência da Computação | Desenvolvedor em Formação
 
 Sou estudante de Ciência da Computação na Universidade Positivo, atualmente no 2º período, com 18 anos e em constante desenvolvimento na área de tecnologia.
 
@@ -7,7 +7,7 @@ Minha trajetória profissional teve início no setor industrial, em uma fábrica
 
 Atualmente, estou direcionando minha carreira para a tecnologia, buscando transformar os conhecimentos adquiridos na graduação em experiências e projetos práticos.
 
-#Objetivo Profissional
+# Objetivo Profissional
 
 Meu objetivo é construir uma carreira como Engenheiro de Software, desenvolvendo soluções eficientes, inovadoras e de qualidade.
 
@@ -53,14 +53,14 @@ Atualmente, estou buscando aprimorar meus conhecimentos e desenvolver novas comp
 
 Meu objetivo é evoluir continuamente, transformando o conhecimento teórico adquirido na faculdade em projetos práticos e experiências reais.
 
-##Formação Acadêmica
+## Formação Acadêmica
 
 Universidade Positivo
 
 Curso: Ciência da Computação
 Período: 2º período
 
-##Idiomas
+## Idiomas
 Português: Nativo
 Inglês: Básico
 Sobre Minha Jornada
