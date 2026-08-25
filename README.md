@@ -1,5 +1,5 @@
-Adriano Martins
-Estudante de Ciência da Computação | Desenvolvedor em Formação
+#Adriano Martins
+##Estudante de Ciência da Computação | Desenvolvedor em Formação
 
 Sou estudante de Ciência da Computação na Universidade Positivo, atualmente no 2º período, com 18 anos e em constante desenvolvimento na área de tecnologia.
 
@@ -7,7 +7,7 @@ Minha trajetória profissional teve início no setor industrial, em uma fábrica
 
 Atualmente, estou direcionando minha carreira para a tecnologia, buscando transformar os conhecimentos adquiridos na graduação em experiências e projetos práticos.
 
-Objetivo Profissional
+#Objetivo Profissional
 
 Meu objetivo é construir uma carreira como Engenheiro de Software, desenvolvendo soluções eficientes, inovadoras e de qualidade.
 
@@ -15,52 +15,52 @@ Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar meu
 
 Tenho interesse especial nas seguintes áreas:
 
-Segurança da Informação
-Banco de Dados
-Desenvolvimento Web
-Desenvolvimento com Python
-UI/UX
-Desenvolvimento de Software
-Competências Atuais
-Técnicas
-Lógica de programação
-Conhecimentos básicos de Python
-Noções de desenvolvimento de software
-Informática
-Pacote Office
-Noções de UI/UX
-Comportamentais
-Vontade de aprender
-Responsabilidade
-Organização
-Comprometimento
-Trabalho em equipe
-Proatividade
-Resolução de problemas
-Competências a Desenvolver
+-Segurança da Informação
+-Banco de Dados
+-Desenvolvimento Web
+-Desenvolvimento com Python
+-UI/UX
+-Desenvolvimento de Software
+-Competências Atuais
+-Técnicas
+-Lógica de programação
+-Conhecimentos básicos de Python
+-Noções de desenvolvimento de software
+-Informática
+-Pacote Office
+-Noções de UI/UX
+-Comportamentais
+-Vontade de aprender
+-Responsabilidade
+-Organização
+-Comprometimento
+-Trabalho em equipe
+-Proatividade
+-Resolução de problemas
+-Competências a Desenvolver
 
 Atualmente, estou buscando aprimorar meus conhecimentos e desenvolver novas competências nas seguintes áreas:
 
-Python
-HTML, CSS e JavaScript
-SQL e Banco de Dados
-Git e GitHub
-Desenvolvimento de APIs
-Testes de Software
-Metodologias Ágeis (Scrum e Kanban)
-UI/UX
-Segurança da Informação
+-Python
+-HTML, CSS e JavaScript
+-SQL e Banco de Dados
+-Git e GitHub
+-Desenvolvimento de APIs
+-Testes de Software
+-Metodologias Ágeis (Scrum e Kanban)
+-UI/UX
+-Segurança da Informação
 
 Meu objetivo é evoluir continuamente, transformando o conhecimento teórico adquirido na faculdade em projetos práticos e experiências reais.
 
-Formação Acadêmica
+##Formação Acadêmica
 
 Universidade Positivo
 
 Curso: Ciência da Computação
 Período: 2º período
 
-Idiomas
+##Idiomas
 Português: Nativo
 Inglês: Básico
 Sobre Minha Jornada
