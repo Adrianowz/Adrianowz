@@ -71,7 +71,7 @@ Busco transformar conhecimento em prática, desafios em aprendizado e aprendizad
 
 ## Contato
 
-- LinkedIn: [Adriano Martins]((https://www.linkedin.com/in/adriano-martins-santos-jr/))
+- LinkedIn: [Adriano Martins](https://www.linkedin.com/in/adriano-martins-santos-jr/)
 
 ## Projetos
 
